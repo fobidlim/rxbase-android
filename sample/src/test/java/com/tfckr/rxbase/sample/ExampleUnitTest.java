@@ -1,4 +1,4 @@
-package com.tfckr.rxbase.android;
+package com.tfckr.rxbase.sample;
 
 import org.junit.Test;
 
